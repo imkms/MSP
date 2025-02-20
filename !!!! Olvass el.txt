@@ -1,0 +1,12 @@
+1. Nyomd meg a Windows gombot.
+2. Ird be, hogy '%appdata%'
+3. Menj bele a '.minecraft' folderba.
+4. Huzd at a 7z mappa tartalmat.
+5. Easyxd
+
+Verzio valtas:
+1. Megnyitod a 'jar.7z' mappat.
+2. Atnevezed siman 'minecraft.jar'-ra amelyiket szeretned.
+3. Beteszed az '%appdata%/.minecraft/bin' folderbe.
+4. Enjoyxd
+
